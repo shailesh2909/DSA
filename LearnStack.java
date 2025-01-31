@@ -15,5 +15,6 @@ public class LearnStack {
 
         subjects.pop();
         System.out.println("Printing Stack elements after pop: "+subjects); 
+        System.out.println(subjects.peek());
     }
 }
