@@ -6,6 +6,8 @@ public class CheckPalindrome {
         System.out.println("Enter a number: ");
         int n = sc.nextInt();
         System.out.println(isPalindrome(n));
+
+        sc.close();
         
     }
         
