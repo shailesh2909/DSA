@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class removeDuplicates {
+public class RemoveDuplicates {
     public static int removeDuplicates1(int[] nums) {
         
         int i = 0;
